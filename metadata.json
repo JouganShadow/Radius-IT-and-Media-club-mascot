@@ -1,0 +1,10 @@
+{
+  "name": "Radius - YSIS IT Mascot",
+  "description": "Voice-interactive AI mascot Radius, built by the IT and Media Club for Invenio Science Exhibition at Yoshida Shokanji International School.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
